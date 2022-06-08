@@ -1,5 +1,4 @@
-# js_how_time_get
-Javascriptで時間を取得する方法
+# Javascriptで時間を取得する方法
 
 こちらのコードは GoogleAppsScriptでも動きます。
 https://script.google.com/
