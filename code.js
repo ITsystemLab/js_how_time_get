@@ -56,5 +56,5 @@ function myFunction() {
   var d_milliseconds = difference.getMilliseconds() // ミリ秒
 
   // 出力
-  console.log( d_year + "年" + d_month + "ヶ月" + d_day + "日 " + d_hours + "時" + d_minutes + "分" + d_seconds + "秒" + d_milliseconds )
+  console.log( d_year + "年" + d_month + "ヶ月" + d_day + "日 " + d_hours + "時間" + d_minutes + "分" + d_seconds + "秒" + d_milliseconds )
 }
